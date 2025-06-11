@@ -41,6 +41,10 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
+  <img src = "https://camo.githubusercontent.com/92ce1c051262bbe8c329848632e7ce3a5289de4c35182ae3d01ef1655f65c32b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6578746a732f6e6578746a732d6f726967696e616c2e737667">
+  <img src = "https://camo.githubusercontent.com/f0a750ad8250cf711f7a1da710cfc83a9c8a1da28a5b34f603750d6d6ee7a2b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f736173732f736173732d6f726967696e616c2e737667">
+  <img src = "https://camo.githubusercontent.com/eb1b0f4c3c1472dd8c8cc4cb95e287b6a237c8b5aa8a065c35f856f1f1a3191c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d706c61696e2e737667">
+  <img src = "https://camo.githubusercontent.com/8b690f4dff81513c7425f3b8f6e66b34a1dea43e22562037eeb5449d18571c89/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a> 
@@ -70,13 +74,13 @@
 
 <!-- ### Badges -->
 
-<!-- <b>My GitHub Stats</b>
+<b>My GitHub Stats</b>
 
-<a href="https://github.com/RinKhimera"><img src="https://github-readme-stats.vercel.app/api?username=RinKhimera&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="thatmissedsemicolon's GitHub stats" /></a>
+<a href="https://github.com/PenpenBerboss"><img src="https://github-readme-stats.vercel.app/api?username=RinKhimera&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="thatmissedsemicolon's GitHub stats" /></a>
 
-<a href="https://github.com/RinKhimera"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RinKhimera&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/PenpenBerboss"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RinKhimera&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/RinKhimera" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinKhimera&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/PenpenBerboss" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinKhimera&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinKhimera&layout=compact&langs_count=7&theme=dracula"/> -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PenpenBerboss&layout=compact&langs_count=7&theme=dracula"/>
 </div>
