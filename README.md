@@ -76,11 +76,10 @@
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/PenpenBerboss"><img src="https://github-readme-streak-stats.herokuapp.com?user=PenpenBerboss&theme=dracula&hide_border=true&border_radius=9.9&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun&card_width=503&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
+<a href="https://github.com/PenpenBerboss"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PenpenBerboss" alt="GitHub Streak" /></a>
 
 <a href="https://github.com/PenpenBerboss"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PenpenBerboss&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/PenpenBerboss" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PenpenBerboss&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PenpenBerboss&layout=compact&langs_count=7&theme=dracula"/>
 </div>
