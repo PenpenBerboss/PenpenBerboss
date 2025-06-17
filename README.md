@@ -90,7 +90,18 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PenpenBerboss&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PenpenBerboss&layout=compact&theme=merko)
-![GitHub Streak](https://git.io/streak-stats?user=PenpenBerboss&theme=merko)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PenpenBerboss" alt="GitHub Streak" /></a>
+
+
+<!-- Vos statistiques générales -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PenpenBerboss&show_icons=true&theme=radical)
+
+<!-- Top langages utilisés -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PenpenBerboss&layout=compact&theme=radical)
+
+<!-- Streak de contributions -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PenpenBerboss&theme=radical)
+
 
 ## 🏆 Mes trophées GitHub
 ![trophy](https://github-profile-trophy.vercel.app/?username=PenpenBerboss&theme=merko)
