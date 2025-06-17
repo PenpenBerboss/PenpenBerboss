@@ -76,12 +76,9 @@
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/PenpenBerboss"><img src="https://github-readme-streak-stats.herokuapp.com?user=PenpenBerboss" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PenpenBerboss&theme=dracula&border_radius=20&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PenpenBerboss&border_radius=20&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=berbosspenpen)](https://github.com/PenpenBerboss/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berbosspenpen&show_icons=true&theme=radical)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PenpenBerboss)](https://github.com/anuraghazra/github-readme-stats)
 </div>
