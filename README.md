@@ -80,27 +80,14 @@
 <!-- ### Badges -->
 
 <b>My GitHub Stats</b>
-
-<a href="https://github.com/PenpenBerboss/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PenpenBerboss&theme=tokyonight&show_icons=true" />
-</a>
-<a href="https://github.com/PenpenBerboss/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PenpenBerboss&card_width=320&langs_count=8&layout=compact" />
-</a>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PenpenBerboss&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PenpenBerboss&layout=compact&theme=merko)
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PenpenBerboss" alt="GitHub Streak" /></a>
-
-
 <!-- Vos statistiques générales -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PenpenBerboss&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PenpenBerboss&show_icons=true&theme=tokyonight)
 
 <!-- Top langages utilisés -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PenpenBerboss&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PenpenBerboss&layout=compact&theme=merko)
 
 <!-- Streak de contributions -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PenpenBerboss&theme=radical)
+
 
 
 ## 🏆 Mes trophées GitHub
