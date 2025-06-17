@@ -70,6 +70,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
   </a> 
+  
+## 🛠️ Other TOOls
+**Databases:** SQL, NoSQL  
+**Data Science & Analytics:** Machine Learning, Deep Learning, TensorFlow, scikit‑learn, Power BI, Excel  
+**Tools & Platforms:** Git, Docker, Kubernetes, AWS, Netlify, Vercel
 </p>
 
 <!-- ### Badges -->
@@ -83,4 +88,10 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PenpenBerboss&card_width=320&langs_count=8&layout=compact" />
 </a>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PenpenBerboss&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PenpenBerboss&layout=compact&theme=merko)
+![GitHub Streak](https://git.io/streak-stats?user=PenpenBerboss&theme=merko)
+
+## 🏆 Mes trophées GitHub
+![trophy](https://github-profile-trophy.vercel.app/?username=PenpenBerboss&theme=merko)
 </div>
