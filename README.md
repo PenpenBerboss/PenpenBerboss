@@ -76,11 +76,11 @@
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="github-readme-stats-fawn-nine-84.vercel.app/api?username=PenpenBerboss&theme=tokyonight&show_icons=true" />
+<a href="https://github.com/PenpenBerboss/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PenpenBerboss&theme=tokyonight&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="github-readme-stats-fawn-nine-84.vercel.app/api/top-langs?username=PenpenBerboss&layout=compact&langs_count=15&card_width=320" />
+<a href="https://github.com/PenpenBerboss/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PenpenBerboss&layout=compact&langs_count=15&card_width=320" />
 </a>
 
 </div>
