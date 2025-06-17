@@ -80,7 +80,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PenpenBerboss&theme=tokyonight&show_icons=true" />
 </a>
 <a href="https://github.com/PenpenBerboss/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PenpenBerboss&layout=compact&langs_count=15&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PenpenBerboss&card_width=320&langs_count=8&layout=compact" />
 </a>
 
 </div>
