@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **JavaScript projects**
 
-- 👨‍💻 All of my projects are available at <a href="/">my portfolio website</a>
+- 👨‍💻 All of my projects are available at <a href="https://portefolio-berboss.vercel.app/">my portfolio website</a>
 
 - 💬 Ask me about **React**
 
