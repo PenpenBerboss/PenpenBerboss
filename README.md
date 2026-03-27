@@ -12,7 +12,7 @@ Data & AI Engineer in progress | Fullstack Developer | Building scalable and int
 
 ### 🚀 About Me
 
-I am a **junior developer evolving into a Data & AI Engineer**, passionate about building impactful digital solutions that combine **software engineering, data management, and artificial intelligence**.
+I am a **Senior MERN developer evolving into a Data & AI Engineer**, passionate about building impactful digital solutions that combine **software engineering, data management, and artificial intelligence**.
 
 My vision is clear:  
 👉 **Design intelligent systems that solve real business problems, especially in emerging markets.**
