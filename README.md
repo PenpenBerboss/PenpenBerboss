@@ -85,15 +85,31 @@ All of my projects are available here:
   <!-- Frontend & Core -->
   
 <table>
+  <!-- Ligne 1 -->
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"></td>
+    <td><a href="https://python.org"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
+    <td><a href="https://typescriptlang.org"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
+    <td><a href="https://gnu.org"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
+    <td><a href="https://wikipedia.org"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
+    <td><a href="https://tiangolo.com"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
+    <td><a href="https://palletsprojects.com"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
+    <td><a href="https://docker.com"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
+    <td><a href="https://amazon.com"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
+    <td><a href="https://postgresql.org"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
+    <td><a href="https://mongodb.com"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
+  </tr>
+  <!-- Ligne 2 -->
+  <tr>
+    <td><a href="https://sqlite.org"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
+    <td><a href="https://tensorflow.org"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
+    <td><a href="https://pytorch.org"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
+    <td><a href="https://linux.org"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
+    <td><a href="https://git-scm.com"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
+    <td><a href="https://github.com"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
+    <td><a href="https://github.comfeatures/actions"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
+    <td><a href="https://jenkins.io"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
+    <td><a href="https://grafana.com"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
+    <td><a href="https://visualstudio.com"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
   </tr>
 </table>
 
