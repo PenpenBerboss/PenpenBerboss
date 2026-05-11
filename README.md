@@ -85,33 +85,32 @@ All of my projects are available here:
   <!-- Frontend & Core -->
   
 <table>
-  <!-- Ligne 1 -->
+  <!-- Ligne 1 : Langages & Backend + AWS -->
   <tr>
-    <td><a href="https://python.org"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
-    <td><a href="https://typescriptlang.org"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
-    <td><a href="https://gnu.org"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
-    <td><a href="https://wikipedia.org"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
-    <td><a href="https://tiangolo.com"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
-    <td><a href="https://palletsprojects.com"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
-    <td><a href="https://docker.com"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
-    <td><a href="https://amazon.com"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
-    <td><a href="https://postgresql.org"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
-    <td><a href="https://mongodb.com"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
+    <td><a href="https://python.org"><img src="https://jsdelivr.net" width="40" height="40" alt="Python"/></a></td>
+    <td><a href="https://typescriptlang.org"><img src="https://jsdelivr.net" width="40" height="40" alt="TS"/></a></td>
+    <td><a href="https://gnu.org"><img src="https://jsdelivr.net" width="40" height="40" alt="Bash"/></a></td>
+    <td><a href="https://tiangolo.com"><img src="https://jsdelivr.net" width="40" height="40" alt="FastAPI"/></a></td>
+    <td><a href="https://palletsprojects.com"><img src="https://jsdelivr.net" width="40" height="40" alt="Flask"/></a></td>
+    <td><a href="https://docker.com"><img src="https://jsdelivr.net" width="40" height="40" alt="Docker"/></a></td>
+    <td><a href="https://postgresql.org"><img src="https://jsdelivr.net" width="40" height="40" alt="Postgres"/></a></td>
+    <td><a href="https://mongodb.com"><img src="https://jsdelivr.net" width="40" height="40" alt="MongoDB"/></a></td>
+    <td><a href="https://amazon.com"><img src="https://jsdelivr.net" width="40" height="40" alt="AWS"/></a></td>
   </tr>
-  <!-- Ligne 2 -->
+  <!-- Ligne 2 : DevOps & IA + Kubernetes -->
   <tr>
-    <td><a href="https://sqlite.org"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
-    <td><a href="https://tensorflow.org"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
-    <td><a href="https://pytorch.org"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
-    <td><a href="https://linux.org"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
-    <td><a href="https://git-scm.com"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
-    <td><a href="https://github.com"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
-    <td><a href="https://github.comfeatures/actions"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
-    <td><a href="https://jenkins.io"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
-    <td><a href="https://grafana.com"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
-    <td><a href="https://visualstudio.com"><img src="https://githubusercontent.com" width="40" height="40"/></a></td>
+    <td><a href="https://kubernetes.io"><img src="https://jsdelivr.net" width="40" height="40" alt="Kubernetes"/></a></td>
+    <td><a href="https://sqlite.org"><img src="https://jsdelivr.net" width="40" height="40" alt="SQLite"/></a></td>
+    <td><a href="https://tensorflow.org"><img src="https://jsdelivr.net" width="40" height="40" alt="Tensorflow"/></a></td>
+    <td><a href="https://pytorch.org"><img src="https://jsdelivr.net" width="40" height="40" alt="PyTorch"/></a></td>
+    <td><a href="https://linux.org"><img src="https://jsdelivr.net" width="40" height="40" alt="Linux"/></a></td>
+    <td><a href="https://git-scm.com"><img src="https://jsdelivr.net" width="40" height="40" alt="Git"/></a></td>
+    <td><a href="https://jenkins.io"><img src="https://jsdelivr.net" width="40" height="40" alt="Jenkins"/></a></td>
+    <td><a href="https://grafana.com"><img src="https://jsdelivr.net" width="40" height="40" alt="Grafana"/></a></td>
+    <td><a href="https://visualstudio.com"><img src="https://jsdelivr.net" width="40" height="40" alt="VSCode"/></a></td>
   </tr>
 </table>
+
 
 
 
